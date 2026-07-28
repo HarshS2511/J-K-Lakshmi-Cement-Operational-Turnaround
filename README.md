@@ -1,4 +1,4 @@
-# J-K-Lakshmi-Cement-Operational-Turnaround
+# J K Lakshmi Cement Operational Turnaround
 # Operational Turnaround & Profitability Modeling
 *An executive analysis and 12-week strategic playbook targeting margin compression, rising input costs, and freight mix bottlenecks.*
 
